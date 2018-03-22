@@ -1,0 +1,13 @@
+﻿  Program.cpp
+c:\users\sora casus\documents\visual studio 2017\projects\3dengine\3dengine\src\test\test_matrix.h(7): warning C4930: 'math::Matrix<4,4,float> test01(void)': prototyped function not called (was a variable definition intended?)
+c:\users\sora casus\documents\visual studio 2017\projects\3dengine\3dengine\src\test\test_vector.h(7): warning C4930: 'math::Vector<3,T> vec01(void)': prototyped function not called (was a variable definition intended?)
+          with
+          [
+              T=float
+          ]
+c:\users\sora casus\documents\visual studio 2017\projects\3dengine\3dengine\src\util\math\matrix.h(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\sora casus\documents\visual studio 2017\projects\3dengine\3dengine\src\util\math\matrix.h(24): note: while compiling class template member function 'math::Matrix<2,2,float>::Matrix(void)'
+  c:\users\sora casus\documents\visual studio 2017\projects\3dengine\3dengine\src\test\test_matrix.h(42): note: see reference to function template instantiation 'math::Matrix<2,2,float>::Matrix(void)' being compiled
+  c:\users\sora casus\documents\visual studio 2017\projects\3dengine\3dengine\src\test\test_matrix.h(42): note: see reference to class template instantiation 'math::Matrix<2,2,float>' being compiled
+  3DEngine.vcxproj -> c:\users\sora casus\documents\visual studio 2017\Projects\3DEngine\Debug\3DEngine.exe
+  3DEngine.vcxproj -> c:\users\sora casus\documents\visual studio 2017\Projects\3DEngine\Debug\3DEngine.pdb (Partial PDB)
