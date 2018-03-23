@@ -114,11 +114,7 @@
     <ClInclude Include="src\test\Test_Matrix.h" />
     <ClInclude Include="src\test\Test_Vector.h" />
     <ClInclude Include="src\util\Common.h" />
-    <ClInclude Include="src\util\math\Math.h" />
-    <ClInclude Include="src\util\math\Matrix.h" />
-    <ClInclude Include="src\util\math\Operation.h" />
-    <ClInclude Include="src\util\math\Transformation.h" />
-    <ClInclude Include="src\util\math\vector.h" />
+    <ClInclude Include="src\util\math\Vector.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\test\Program.cpp" />
